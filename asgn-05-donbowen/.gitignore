@@ -1,7 +1,7 @@
 profanswer.ipynb
 /creating/*
 .DS_store
-10k_files/sec-edgar-filings/
+10k_files/sec-edgar-filings/*
 *answer*
 .ipynb_checkpoints/
 __pycache__/
